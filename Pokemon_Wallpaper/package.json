@@ -1,0 +1,18 @@
+{
+  "name": "com.outreal.pokemon-wallpaper",
+  "version": "1.0.0",
+  "displayName": "Pokemon texture inserter",
+  "description": "Press space to insert a pokemon wallpaper",
+  "unity": "2020.3",
+  "dependencies": {
+  },
+  "keywords": [ "pokemon", "wallpaper" ],
+  "author": {
+    "name": "Ezzo",
+    "email": "b00073900@aus.edu"
+  }
+
+
+
+
+}
